@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplunkDemo", "SplunkDemo\SplunkDemo.csproj", "{14D624DA-9271-47EC-9FD3-714BD2581CC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogDemo", "SerilogDemo\SerilogDemo.csproj", "{8FA2D6FD-409F-4CAD-9A46-FB7F56E79BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D624DA-9271-47EC-9FD3-714BD2581CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D624DA-9271-47EC-9FD3-714BD2581CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D624DA-9271-47EC-9FD3-714BD2581CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D624DA-9271-47EC-9FD3-714BD2581CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA2D6FD-409F-4CAD-9A46-FB7F56E79BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA2D6FD-409F-4CAD-9A46-FB7F56E79BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA2D6FD-409F-4CAD-9A46-FB7F56E79BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA2D6FD-409F-4CAD-9A46-FB7F56E79BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
