@@ -7,7 +7,7 @@ namespace SerilogDemo.Logger
     public class ElasticLogging : ILog
     {
         private readonly Serilog.Core.Logger _logger;
-        private readonly string elasticIndexFormat = "dodweb-log-{0:yyyy.MM.dd}";
+        private readonly string elasticIndexFormat = "log-{0:yyyy.MM.dd}";
 
         public ElasticLogging()
         {
