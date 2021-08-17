@@ -15,7 +15,7 @@ namespace SerilogDemo.Controllers
 
         public ActionResult Index()
         {
-            _logger.Information("Index Page Calling ILog Tarkan Demo");
+            _logger.Information("Index Page Calling ILog");
 
             return View();
         }
